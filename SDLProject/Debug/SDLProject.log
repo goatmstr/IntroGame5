@@ -1,0 +1,37 @@
+﻿  Effects.cpp
+  Entity.cpp
+C:\Users\hbpan\Documents\code\IntroGame\IntroGame5\SDLProject\Entity.h(92,56): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\hbpan\Documents\code\IntroGame\IntroGame5\SDLProject\Entity.h(93,56): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  helper.cpp
+  LevelA.cpp
+C:\Users\hbpan\Documents\code\IntroGame\IntroGame5\SDLProject\Entity.h(92,56): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\hbpan\Documents\code\IntroGame\IntroGame5\SDLProject\Entity.h(93,56): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\hbpan\Documents\code\IntroGame\IntroGame5\SDLProject\LevelA.cpp(106,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  LevelB.cpp
+C:\Users\hbpan\Documents\code\IntroGame\IntroGame5\SDLProject\Entity.h(92,56): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\hbpan\Documents\code\IntroGame\IntroGame5\SDLProject\Entity.h(93,56): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\hbpan\Documents\code\IntroGame\IntroGame5\SDLProject\LevelB.cpp(109,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  LevelC.cpp
+C:\Users\hbpan\Documents\code\IntroGame\IntroGame5\SDLProject\Entity.h(92,56): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\hbpan\Documents\code\IntroGame\IntroGame5\SDLProject\Entity.h(93,56): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\hbpan\Documents\code\IntroGame\IntroGame5\SDLProject\LevelC.cpp(107,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+C:\Users\hbpan\Documents\code\IntroGame\IntroGame5\SDLProject\Entity.h(92,56): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\hbpan\Documents\code\IntroGame\IntroGame5\SDLProject\Entity.h(93,56): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  Menu.cpp
+C:\Users\hbpan\Documents\code\IntroGame\IntroGame5\SDLProject\Entity.h(92,56): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\hbpan\Documents\code\IntroGame\IntroGame5\SDLProject\Entity.h(93,56): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\hbpan\Documents\code\IntroGame\IntroGame5\SDLProject\Menu.cpp(73,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Scene.cpp
+C:\Users\hbpan\Documents\code\IntroGame\IntroGame5\SDLProject\Entity.h(92,56): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\hbpan\Documents\code\IntroGame\IntroGame5\SDLProject\Entity.h(93,56): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  ShaderProgram.cpp
+  Map.cpp
+C:\Users\hbpan\Documents\code\IntroGame\IntroGame5\SDLProject\Map.cpp(89,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\hbpan\Documents\code\IntroGame\IntroGame5\SDLProject\Map.cpp(90,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Source.cpp
+  sprite.cpp
+  Utility.cpp
+C:\Users\hbpan\Documents\code\IntroGame\IntroGame5\SDLProject\Utility.cpp(56,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  SDLProject.vcxproj -> C:\Users\hbpan\Documents\code\IntroGame\IntroGame5\SDLProject\Debug\SDLProject.exe
